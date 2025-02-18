@@ -1,1 +1,4 @@
-<img src="https://github.com/diullyevely/Convert-Money/blob/main/assets/WhatsApp%20Image%202025-02-18%20at%2011.42.08%20(1).jpeg?raw=true" alt="logo-computador" width="400px" src="">
+<div>
+<img src="" alt="logo-computador" width="400px"height="500px" >
+<img src="" alt="logo-celular width="200px" height="300px" >
+</div>
